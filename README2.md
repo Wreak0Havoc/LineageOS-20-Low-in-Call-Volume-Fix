@@ -58,8 +58,8 @@ Take a full backup of the mixer_gains.xml file before installing
 **Done.**
 ## Screenshots
 
-Main activity:
+Main activity Without Backup command:
 
 |                                  CMD                                   |
 |:-----------------------------------------------------------------------------:
-| [<img src="Screenshot2024-02-04122807.png" width="250"/>](Screenshot2024-02-04122807.png) 
+| [<img src="Screenshot2024-02-04122807.png" width="1000"/>](Screenshot2024-02-04122807.png) 
