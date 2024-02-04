@@ -62,4 +62,4 @@ Main activity:
 
 |                                  CMD                                   |
 |:-----------------------------------------------------------------------------:
-| [<img src="docs/screenshot-dark.jpg" width="250"/>](docs/screenshot-dark.jpg) 
+| [<img src="Screenshot2024-02-04122807.png" width="250"/>](Screenshot2024-02-04122807.png) 
