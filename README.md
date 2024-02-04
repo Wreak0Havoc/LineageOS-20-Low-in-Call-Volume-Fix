@@ -21,6 +21,12 @@ Take a full backup of the mixer_gains.xml file before installing
 - Root enabled
 - Usb debugging enabled
 
+
+## Futures
+
+- increases in call volume
+- increases all phone volume slightly
+
 ## Installation
 
 **- Step 1:**   Download SDK Platform-Tools for Windows https://developer.android.com/tools/releases/platform-tools
