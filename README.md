@@ -1,4 +1,4 @@
-[LineageOS 20 Low in Call Volume Fix](https://github.com/Wreak0Havoc/LineageOS-20-Low-in-Call-Volume-Fix)
+[LineageOS 20 Low in Call Volume Fix](https://github.com/Wreak0Havoc/LineageOS-20-Low-in-Call-Volume-Fix#readme)
 Fixes low in call volume on LineageOS 20 by replacing the mixer_gains.xml file inside /system/vendor/etc
 
 Tested only on Galaxy S10 plus, on Android (13)
