@@ -66,11 +66,11 @@ Take a full backup of the mixer_gains.xml file before installing
 
 Main activity Without Backup command:
 
-|                                  CMD                                   |
+|                                  Developer options                                   |
 |:-----------------------------------------------------------------------------:
 | [<img src="Screenshot_20240205-074739_Settings.png" width="1000"/>](Screenshot_20240205-074739_Settings.png) 
 
 
-|                                  Developer options                                 |
+|                                  CMD                                 |
 |:-----------------------------------------------------------------------------:
 | [<img src="Screenshot2024-02-04122807.png" width="1000"/>](Screenshot2024-02-04122807.png) 
