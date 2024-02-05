@@ -20,7 +20,7 @@ Take a full backup of the mixer_gains.xml file before installing
 - Android 13
 - Root enabled
 - Usb debugging enabled
-
+- Rooted debugging enabled 
 
 ## Futures
 
@@ -67,5 +67,10 @@ Take a full backup of the mixer_gains.xml file before installing
 Main activity Without Backup command:
 
 |                                  CMD                                   |
+|:-----------------------------------------------------------------------------:
+| [<img src="Screenshot2024-02-04122807.png" width="1000"/>](Screenshot2024-02-04122807.png) 
+
+
+|                                  Developer options                                 |
 |:-----------------------------------------------------------------------------:
 | [<img src="Screenshot2024-02-04122807.png" width="1000"/>](Screenshot2024-02-04122807.png) 
