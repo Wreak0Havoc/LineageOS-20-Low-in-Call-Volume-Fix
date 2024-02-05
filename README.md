@@ -68,7 +68,7 @@ Main activity Without Backup command:
 
 |                                  CMD                                   |
 |:-----------------------------------------------------------------------------:
-| [<img src="Screenshot2024-02-04122807.png" width="1000"/>](Screenshot2024-02-04122807.png) 
+| [<img src="Screenshot_20240205-074739_Settings.png" width="1000"/>](Screenshot_20240205-074739_Settings.png) 
 
 
 |                                  Developer options                                 |
