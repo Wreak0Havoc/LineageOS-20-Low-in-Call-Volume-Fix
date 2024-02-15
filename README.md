@@ -9,7 +9,7 @@ Fixes low in call volume on LineageOS 20 by replacing the mixer_gains.xml file i
 Tested only on Galaxy S10 plus, on Android (13)
 
 ## Notice
-This a temporary fix, the mixer gains file will be replaced on every rom update you install, so you must redo all this steps again. 
+This a temporary fix, the mixer gains file maybe replaced on every rom update you install, so you may redo all this steps again. 
 
 Take a full backup of the mixer_gains.xml file before installing
 
